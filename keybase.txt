@@ -1,0 +1,96 @@
+==================================================================
+https://keybase.io/johnp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.pederzolli.org
+  * I am johnp (https://keybase.io/johnp) on keybase.
+  * I have a public key with fingerprint F022 41D5 2B31 B6A7 3C53  32A4 3985 8195 AB2D 98C7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013ca2081d47c1e696c9d74a5a450d71fe23f4f74239e6068bac1946c50ed6286c0a",
+      "fingerprint": "f02241d52b31b6a73c5332a439858195ab2d98c7",
+      "host": "keybase.io",
+      "key_id": "39858195ab2d98c7",
+      "kid": "01013ca2081d47c1e696c9d74a5a450d71fe23f4f74239e6068bac1946c50ed6286c0a",
+      "uid": "3d75061745083632891c1fe5d1cdc719",
+      "username": "johnp"
+    },
+    "merkle_root": {
+      "ctime": 1504362172,
+      "hash_meta": "e7e34252a815a4b8f162386840bab0c0e0971a01c874a61fbaeb0e252abef48d",
+      "seqno": 1363408
+    },
+    "revoke": {
+      "sig_ids": [
+        "59d5df97b07fe0578ddbd51c683014a1c573dccdd8574a125bbc5b1beca72d5c0f"
+      ]
+    },
+    "service": {
+      "hostname": "www.pederzolli.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1504362183,
+  "expire_in": 157680000,
+  "prev": "137875d928b144e24485bb801217bb9c11e94182a50c0f23e161f7bdfc44f34e",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+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
+=2pGo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnp
+
+==================================================================
